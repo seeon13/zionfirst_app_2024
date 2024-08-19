@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seeon13/zionfirst_app_2024/static/css/main.86a4c151.css",
+    "main.js": "/seeon13/zionfirst_app_2024/static/js/main.41e78fbb.js",
+    "index.html": "/seeon13/zionfirst_app_2024/index.html",
+    "main.86a4c151.css.map": "/seeon13/zionfirst_app_2024/static/css/main.86a4c151.css.map",
+    "main.41e78fbb.js.map": "/seeon13/zionfirst_app_2024/static/js/main.41e78fbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a4c151.css",
+    "static/js/main.41e78fbb.js"
+  ]
+}
